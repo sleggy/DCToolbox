@@ -1,7 +1,7 @@
 [
   {
     "templateId": null,
-    "displayName": "GLOBAL - BLOCK - Legacy Authentication",
+    "displayName": "CA BASELINE - BLOCK - Legacy Authentication",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -54,7 +54,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - BLOCK - Unsupported Device Platforms",
+    "displayName": "CA BASELINE - BLOCK - Unsupported Device Platforms",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -116,7 +116,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - BLOCK - Countries not Allowed",
+    "displayName": "CA BASELINE - BLOCK - Countries not Allowed",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -175,7 +175,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - BLOCK - Service Accounts (Trusted Locations Excluded)",
+    "displayName": "CA BASELINE - BLOCK - Service Accounts (Trusted Locations Excluded)",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -234,7 +234,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - BLOCK - Explicitly Blocked Cloud Apps",
+    "displayName": "CA BASELINE - BLOCK - Explicitly Blocked Cloud Apps",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -286,7 +286,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - BLOCK - Guest Access to Sensitive Apps",
+    "displayName": "CA BASELINE - BLOCK - Guest Access to Sensitive Apps",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -342,7 +342,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - BLOCK - High-Risk Sign-Ins",
+    "displayName": "CA BASELINE - BLOCK - High-Risk Sign-Ins",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -396,7 +396,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - BLOCK - High-Risk Users",
+    "displayName": "CA BASELINE - BLOCK - High-Risk Users",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -450,7 +450,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - GRANT - Medium-Risk Sign-ins",
+    "displayName": "CA BASELINE - GRANT - Medium-Risk Sign-ins",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -504,7 +504,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - GRANT - Medium-Risk Users",
+    "displayName": "CA BASELINE - GRANT - Medium-Risk Users",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -558,7 +558,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - GRANT - Device Registration",
+    "displayName": "CA BASELINE - GRANT - Device Registration",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -617,7 +617,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - GRANT - Terms of Use",
+    "displayName": "CA BASELINE - GRANT - Terms of Use",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -670,7 +670,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - GRANT - MFA for All Users",
+    "displayName": "CA BASELINE - GRANT - MFA for All Users",
     "state": "enabled",
     "conditions": {
       "userRiskLevels": [],
@@ -739,7 +739,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - GRANT - Mobile Apps and Desktop Clients",
+    "displayName": "CA BASELINE - GRANT - Mobile Apps and Desktop Clients",
     "state": "disabled",
     "sessionControls": null,
     "conditions": {
@@ -794,7 +794,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - GRANT - Mobile Device Access Requirements",
+    "displayName": "CA BASELINE - GRANT - Mobile Device Access Requirements",
     "state": "enabled",
     "sessionControls": null,
     "conditions": {
@@ -855,7 +855,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - SESSION - Admin Persistence",
+    "displayName": "CA BASELINE - SESSION - Admin Persistence",
     "state": "enabled",
     "grantControls": null,
     "conditions": {
@@ -925,7 +925,7 @@
   },
   {
     "templateId": null,
-    "displayName": "GLOBAL - SESSION - Block File Downloads On Unmanaged Devices",
+    "displayName": "CA BASELINE - SESSION - Block File Downloads On Unmanaged Devices",
     "state": "enabled",
     "grantControls": null,
     "conditions": {
